@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -e PROMPT="$1" angelborroy/llama2:1.0.0
